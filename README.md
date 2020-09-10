@@ -1,1 +1,1 @@
-# device_GUI
+# DEVICE_GUI
